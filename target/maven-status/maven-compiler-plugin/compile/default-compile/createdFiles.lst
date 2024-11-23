@@ -1,0 +1,6 @@
+krishna\pageobjects\CartPage.class
+krishna\pageobjects\OrderPage.class
+krishna\pageobjects\LandingPage.class
+krishna\Abstract_Components\Abstract_Component.class
+krishna\pageobjects\CheckoutPage.class
+krishna\pageobjects\ConfirmationPage.class
